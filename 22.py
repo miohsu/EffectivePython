@@ -54,3 +54,5 @@ if __name__ == '__main__':
     math.report_grade(80, 0.15)
     math.report_grade(95, 0.5)
     print(miohsu.average_grade())
+
+
